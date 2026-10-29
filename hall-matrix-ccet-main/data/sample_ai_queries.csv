@@ -1,0 +1,19 @@
+query,expected_intent
+Where is my exam hall?,student_hall
+What is my seat number?,student_hall
+Enoda seat enga?,student_hall
+Who is my tutor?,student_profile
+Show my student details,student_profile
+What subjects am I taking?,student_profile
+What exam is my batch writing today?,tutor_today_exam
+Which exam do my students have today?,tutor_today_exam
+What is the exam timetable for my batch?,tutor_timetable
+Show upcoming exams for my students,tutor_timetable
+How many students are writing today?,today_students_count
+What is the total student count today?,today_students_count
+How many halls are used today?,today_halls_count
+What is the total number of halls today?,today_halls_count
+Show total students and halls today,today_summary
+Give me today exam allocation summary,today_summary
+Hello Matrix AI,general_help
+What can you do?,general_help
